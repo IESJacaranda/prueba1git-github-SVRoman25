@@ -13,5 +13,5 @@ Quevedo García, Salud
 Rabanal Márquez, Fernando Manuel
 Romero Cano, Abraham
 Tirado Román, José Antonio
-Vidal Román, Samuel
+~~Vidal Román, Samuel~~
 Villegas Cobos, José Vicente
