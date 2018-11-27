@@ -6,4 +6,6 @@
 4. Con el nano abrir el archivo listado.md y tachar mi nombre, mi nombre se tacha en markdow con los simbolos ~~mi nombre ~~.
 5. Con git status comprobamos que los archivos han sido modificados con git commit añadimos un comentario y una ves echo todo esto con git push subimos los cambios.
 
+Estoy modificando el fichero y actualizando los terminos.¿Todo OK?
 
+Primero hacer un fork y luego un pull request

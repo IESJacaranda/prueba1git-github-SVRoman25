@@ -14,3 +14,6 @@ La idea es poder trabajar sobre un repositorio remoto, a modo de puesta en prác
 5) Añadir el fichero ejercicio.md con los pasos seguidos.
  
 6) Enviar los cambios al repositorio aignado. 
+
+
+Estamos modificicando con los pullrequests
